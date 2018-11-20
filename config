@@ -1,0 +1,5 @@
+#CAEN (does not work for me but whatever)
+Host whdavis
+	HostName login.engin.umich.edu
+	User whdavis
+	Compression yes
